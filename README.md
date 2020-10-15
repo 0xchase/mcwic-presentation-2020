@@ -38,4 +38,5 @@
  - YouTube channel
  - OpenAI jukebox to generate samples instead of entire songs
  - OpenAI jukebox to generate kick samples. Parameters for amount of high end, low end, length, etc. Add parameters to training data by analyzing individual samples.
+ - Deep learning reconstruct vocal high end (could be used for lots of different plugins)
 
