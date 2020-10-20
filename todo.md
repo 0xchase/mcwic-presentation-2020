@@ -23,7 +23,8 @@
  - Show cinematic piece I wrote, have algorithm generate variations
 
 ### Deep Learning
- - Deep learning to build data from ambient piano
+ - Get basic deep learning working (using git:rileynwong/lstm-jazz)
+ - Generate new midi files from ambient piano pieces
  - Deep learning to train model and generate new songs
 
 ### GAN for sampling
