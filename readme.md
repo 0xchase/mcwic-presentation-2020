@@ -1,9 +1,5 @@
 # mcwic-presentation-2020
 
-## Todo
- - Develop each algorithm seperatley
- - Get each algorithm to work with the main framework
-
 ## Algorithms
  - VCV Rack generative
  - Markov Model
