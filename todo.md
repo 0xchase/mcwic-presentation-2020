@@ -15,7 +15,6 @@
  - VCVRack demo
  - Random notes with python, export to ableton, send to modular or ambient pads
  - Nodal???
- - Feed it EEG data???
 
 ### Markov Model
  - Get basic markov model working
@@ -30,5 +29,8 @@
 
 ### GAN for sampling
  - Get basic GAN working
+ 
+### Future technologies
+ - Show EEG data example
 
 ### 
