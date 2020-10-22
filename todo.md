@@ -1,8 +1,9 @@
 # Todo
 
-### Priority
- - Create slides to fill in later
- - 
+### Schedule
+ - This week: Controlled randomness, deep learning
+ - Week 2: Genetic algorithm example
+ - Week 3: Markov Model, GAN
 
 ---
 
