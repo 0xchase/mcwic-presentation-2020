@@ -20,6 +20,7 @@
  - EEG example
    - Music to increase relaxation
    - Watch horror sequence with EEG, make it generate scary sounds like Thrill EEG or change volumes on various scary parts
+ - Declarative language for music generation
  - Genetic algorithms
    - Show GSO cinematic piece I wrote, generate a varation on it
    - This is the technique used by Avia
