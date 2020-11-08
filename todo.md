@@ -13,14 +13,15 @@
 
 ### Controlled Randomness
  - VCVRack demo
- - Random notes with python, export to ableton, send to modular or ambient pads
- - Nodal???
+ - Moog Mother 32 Demo
+ - Nodal
 
 ### Markov Model
  - Get basic markov model working
 
-### Genetic Algorithms
- - Show cinematic piece I wrote, have algorithm generate variations
+### ??? Algorithms
+ - Show what I'm working on for the Galen game
+ - Show how algorithms can be used to generate variations
 
 ### Deep Learning
  - Get basic deep learning working (using git:rileynwong/lstm-jazz)
@@ -32,5 +33,9 @@
  
 ### Future technologies
  - Show EEG data example
+ - Cognitive science
+   - Demonstrate how each algorithm captures the semantics of each musical property
+ - Generative grammars - by Noam Chomsky, everyone's favorite linguist and anti-neoliberal
 
-### 
+### Conclusion
+ - A group of students will be working on this project, so if you're intersted you can DM me or send an email to chasekanipe@gmail.com, and you can join our research
